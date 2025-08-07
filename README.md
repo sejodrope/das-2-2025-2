@@ -16,10 +16,56 @@ Design e Arquitetura de Software II 2025/2
   - Eficiência e Performance  (Estático e Dinâmico)
   - Custo e Otimização (Precisa medir o uso e eliminar o que não usar)
   - Sustentabilidade (Não desperdiçar tanto dinheiro quanto recurso)
-- EC2 -
-- Amazon S3 -
+- EC2 
+- Amazon S3 
 
 
 ---
 
-# Aula 06/07/25
+# Aula 06/08/25
+
+### Estrutura da AWS
+
+#### Regions and Availability Zones [Regions](https://aws.amazon.com/pt/about-aws/global-infrastructure/regions_az/)
+
+- AZ -> Estrutura lógica que fica na mesma região, mas distantes um do outros
+- Caso tenha falha, não impacta as outras estruturas (mesmo estando longe, a latência é baixa)
+- Selecionar zonas disponíveis (zonas de disponibilidades - são interconectadas)
+- **Local Zone** específico para rodar servidor (locais onde tem muita gente)
+- AWS PoPs - Edge Location + Regional edge cache (CDN - Cloud Front)
+
+### Segurança - Secutiry Acess
+
+- AWS responsability model - Infra dos serviços, tipos de nuvem (IaaS / PaaS / SaaS)
+- Principais **pilares/princípios** da segurança:
+  - implementar uma base de identidade forte
+  - Proteja os dados em trânsito e em repouso
+  - Aplicar segurança em todas as camadas
+  - Mnater os dados longe das pessoas
+  - Rastreabilidade
+  - Estar preparado para problemas de segurança
+  - Automatizar todos os processos de segurança
+- Princípio do privilégio mínimo
+
+### Autenticação e Segurança de Acesso 
+
+- Autenticação - 
+- Principais **pilares/princípios** da segurança:
+  - implementar uma base de identidade forte
+  - Proteja os dados em trânsito e em repouso
+  - Aplicar segurança em todas as camadas
+  - Mnater os dados longe das pessoas
+  - Rastreabilidade
+  - Estar preparado para problemas de segurança
+  - Automatizar todos os processos de segurança
+- Princípio do privilégio mínimo
+- Identity and Access Management - (IAM)
+  - IAM Credentials for Autenticator
+
+### Best Pratices to secure access 
+
+- Use strong, complex passwords
+- Secure local credentials
+- Entre outros... 
+
+---
