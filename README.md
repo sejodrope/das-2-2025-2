@@ -70,7 +70,7 @@ Design e Arquitetura de Software II 2025/2
 
 ---
 
-
+3r
 # Aula 13/08/25
 
 ### Revisão e Atividade 
@@ -79,8 +79,17 @@ Design e Arquitetura de Software II 2025/2
 
 - Segurança ponta a ponta (tráfego - TLS e em descanso), não dar os dados pro usuário. 
 - Princípio do privilégio mínimo
-- Identity Based Policy - Associa ao usuário dentro do [IAM]<img width="941" height="561" alt="image" src="https://github.com/user-attachments/assets/45744f1c-737c-4316-a15a-e44480a7d83f" />
+- Identity Based Policy - Associa ao usuário dentro do [IAM](https://aws.amazon.com/pt/iam/)
 - Recurso [Usuário e Sistema]<img width="931" height="509" alt="image" src="https://github.com/user-attachments/assets/7878a536-5623-4a1c-a2a8-cc77a6e2f51d" />
+- Estrutura da Documentação da Apólice <img width="942" height="503" alt="image" src="https://github.com/user-attachments/assets/98a8ca3a-0646-4537-9e9d-bc6b8e703bf8" />
+
+#### Tarefinha meu rei!
+
+- Módulo 2 - Knowledge Check 
+- Módulo 3 - Knowledge Check 
+- <img width="972" height="732" alt="image" src="https://github.com/user-attachments/assets/4bc83f44-1c9f-41c7-a3ed-596fcaa30b76" />
+
+
 
 
   
