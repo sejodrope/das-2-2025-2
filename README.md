@@ -69,3 +69,22 @@ Design e Arquitetura de Software II 2025/2
 - Entre outros... 
 
 ---
+
+
+# Aula 13/08/25
+
+### Revisão e Atividade 
+
+#### Pilares - (IAM) 
+
+- Segurança ponta a ponta (tráfego - TLS e em descanso), não dar os dados pro usuário. 
+- Princípio do privilégio mínimo
+- Identity Based Policy - Associa ao usuário dentro do [IAM](<img width="941" height="561" alt="image" src="https://github.com/user-attachments/assets/45744f1c-737c-4316-a15a-e44480a7d83f" />)
+- Recurso [Usuário e Sistema](<img width="931" height="509" alt="image" src="https://github.com/user-attachments/assets/7878a536-5623-4a1c-a2a8-cc77a6e2f51d" />)
+
+
+  
+
+
+
+---
