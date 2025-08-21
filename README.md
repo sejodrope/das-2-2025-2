@@ -70,7 +70,6 @@ Design e Arquitetura de Software II 2025/2
 
 ---
 
-3r
 # Aula 13/08/25
 
 ### Revisão e Atividade 
@@ -85,9 +84,35 @@ Design e Arquitetura de Software II 2025/2
 
 #### Tarefinha meu rei!
 
-- Módulo 2 - Knowledge Check 
+- Módulo 2 - Knowledge Check
+- Guided Lab: Exploring AWS Identity and Access Management (IAM)
 - Módulo 3 - Knowledge Check 
-- <img width="972" height="732" alt="image" src="https://github.com/user-attachments/assets/4bc83f44-1c9f-41c7-a3ed-596fcaa30b76" />
+
+# Aula 20/08/25
+
+### Continuação do conteúdo IAM / Finalizar **Guided Lab: Exploring AWS Identity and Access Management (IAM)**
+
+#### Tipos de Armazenamento 
+
+<img width="947" height="496" alt="image" src="https://github.com/user-attachments/assets/59d1becf-dd65-49da-bdf2-3266271fd44c" />
+
+### Amazon S3
+
+- Sistema de armazenamento de objetos (limite 5tb p/objt)
+- Virtualmente limitado
+- É acessível localmente
+- Todo Bucket tem nome **único**
+- Os buckets(bounds) vivem em uma região, ou seja, estão fisicamente em uma região
+- <img width="917" height="477" alt="image" src="https://github.com/user-attachments/assets/e22b7e94-92b2-4326-b93d-81809344211e" />
+- <img width="807" height="445" alt="image" src="https://github.com/user-attachments/assets/9d92e81f-1cab-455d-b623-a246068a2df4" />
+- <img width="764" height="400" alt="image" src="https://github.com/user-attachments/assets/714276ef-9509-4d9e-95d0-40aee6dc32f4" />
+
+
+#### Finalizar a tarefinha meu rei!
+
+- Módulo 2 - Knowledge Check (OK)
+- **Guided Lab: Exploring AWS Identity and Access Management (IAM)**
+- Módulo 3 - Knowledge Check (OK)
 
 
 
