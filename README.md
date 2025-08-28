@@ -86,7 +86,9 @@ Design e Arquitetura de Software II 2025/2
 
 - Módulo 2 - Knowledge Check
 - Guided Lab: Exploring AWS Identity and Access Management (IAM)
-- Módulo 3 - Knowledge Check 
+- Módulo 3 - Knowledge Check
+
+---
 
 # Aula 20/08/25
 
@@ -111,9 +113,27 @@ Design e Arquitetura de Software II 2025/2
 #### Finalizar a tarefinha meu rei!
 
 - Módulo 2 - Knowledge Check (OK)
-- **Guided Lab: Exploring AWS Identity and Access Management (IAM)**
+- Guided Lab: Exploring AWS Identity and Access Management (IAM) (OK)
 - Módulo 3 - Knowledge Check (OK)
 
+---
+  
+# Aula 27/08/25
+
+Módulo 4 - S3
+
+### Amazon S3
+
+#### Armazenamento de objetos(metadados(dados sobre dados)) 
+
+
+- Teste link com titulo 
+
+
+#### Finalizar a tarefinha meu rei!
+
+- [lab: Creating a Static Website for the Cafe](https://awsacademy.instructure.com/courses/129676/assignments/1485129?module_item_id=12389220)
+   
 
 
 
