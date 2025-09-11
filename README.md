@@ -277,6 +277,26 @@ print("Arquivo excluído com sucesso!")
 - **Requirements.txt** para versionamento de bibliotecas
 - **Supply Chain Security** - cuidado com dependências
 
+---
+ 
+## Aula 10/09/25 - Amazon services - EBS 
+
+### Configuração do Ambiente de Desenvolvimento de Servidores(data centers de HD)
+
+- Armazenamento pertsistente (ta de boa se liga e desliga)
+- Possui vários tipos de volume HDD-backed 
+- **File share**: `EBS e S3` não é Fileshare, pois é 1:1 e várias outras paradas.
+- **File share**: `Amazon EFS` é linux (não precisa definir tamanho e é mega robusto)
+- **File share**: `Amazon FSx` é Windows e Linux entre outros (NETAPP, openzfs e HPC(O FODÃO))
+
+### Montar um servidor Windows 
+
+- Não precisa de chave como no linux 
+
+
+---
+
+
 ### Atividades da Aula
 - ✅ Configuração do ambiente CodeSpace
 - ✅ Criação de Virtual Environment
