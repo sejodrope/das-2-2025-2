@@ -295,14 +295,32 @@ print("Arquivo excluído com sucesso!")
 
 
 ---
+ 
+## Aula 17/09/25 - Amazon Redes - Gateway
+
+### Configuração do Ambiente de Desenvolvimento de Servidores(data centers de HD)
+### Deploy entre outros...
+
+### Placement strategies:
+- **Cluster**: `Todas máquinas na mesma AZ`, ou seja, no mesmo espaço físico pra aumento de performance.
+- **Partition**: `É o meio dos dois`, hadoop, kafka, spark (sharding partition). 
+- **Spread**: `Alta disponibilidade`, mas baixa performance. 
+
+### Amazon EC2 - Precificação:
+- **on-demand**: `O mais caro`, ou seja, no mesmo espaço físico pra aumento de performance.
+- **Reserved**: `Até 72% de desconto`, reserva uma máquina fisica
+- **Saving Plans**: `Até 74% de desconto`, reserva uma máquina e paga $/hora
+- **Amazon EC2 Sopt**: `O queridinho`, 92% de desconto, mas baixa disponivilidade
+
+### Amazon Banco de Dados:
+- **OSI**: `IP, TCP/UDP...`, System Operacional Information
+- **Internet Gateway**: `transferer`,
+- **VPC Peering**: `Interligar VPC's/Redes`, em regiões diferentes
+- **VPC endpoints**: `cria um túnel por dentro da AWS`,  
 
 
-### Atividades da Aula
-- ✅ Configuração do ambiente CodeSpace
-- ✅ Criação de Virtual Environment
-- ✅ Implementação dos 4 programas básicos S3
-- ✅ Configuração de acesso público
-- ✅ Teste de funcionamento completo
+---
+
 
 ### Próximos Passos
 - Continuar com outros serviços AWS (DynamoDB, RDS, etc.)
