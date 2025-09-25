@@ -319,13 +319,29 @@ print("Arquivo excluído com sucesso!")
 - **VPC endpoints**: `cria um túnel por dentro da AWS`,  
 
 
----
-
-
 ### Próximos Passos
 - Continuar com outros serviços AWS (DynamoDB, RDS, etc.)
 - Aprofundar conceitos de arquitetura
 - Implementar projetos mais complexos
+
+
+---
+ 
+## Aula 24/09/25 - Amazon Redes - Gateway / VPC
+
+
+### VPC - Subnet privado e público:
+- Private subnets
+
+
+### Internet Gateway:
+- É a conexão com a internet
+
+
+<img width="984" height="547" alt="image" src="https://github.com/user-attachments/assets/fe047345-7ece-49a3-8bc0-f08c60f1fcf3" />
+<img width="970" height="545" alt="image" src="https://github.com/user-attachments/assets/ba6d90e5-b21e-4802-9689-f5c2db22bf8b" />
+<img width="959" height="559" alt="image" src="https://github.com/user-attachments/assets/df3ddf65-c35b-4bd6-98c5-431a83098d8f" />
+
 
 ---
 
