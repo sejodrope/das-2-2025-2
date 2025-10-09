@@ -345,8 +345,25 @@ print("Arquivo excluído com sucesso!")
 
 ---
 
+ 
+## Aula 08/10/25 - Identity  
+
+
+### Types of Identity: 
+- RBAC x ABAC
+- Identity Federation 
+- Modern autentication com Single Sign-On (SSO), ou autenticação única 
+- STS - Token
+- Amazon Cognito centraliza as autenticações com outras ferramentas
+- Encryption (Criptografia Simétrica x Assimétrica)
+
+
+
+---
+
 ## Atividades Pendentes
 - [ ] [Lab: Creating a Static Website for the Cafe](https://awsacademy.instructure.com/courses/129676/assignments/1485129?module_item_id=12389220)
+- [ ] Guided lab: Creating a VPC Peering Connection
 
 ---
 
