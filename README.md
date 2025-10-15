@@ -356,7 +356,18 @@ print("Arquivo excluído com sucesso!")
 - STS - Token
 - Amazon Cognito centraliza as autenticações com outras ferramentas
 - Encryption (Criptografia Simétrica x Assimétrica)
+  
 
+---
+
+## Aula 15/10/25 - CloudWatch / EvenBridge / 
+
+
+- `Métricas` Sendo as medidas numéricas das frequências da CPU, Disco e Rede
+- `Logs` São basicamente textos informativos
+- `Elasticidade` Aumenta e diminui através do monitoramento
+- `Escabalidade Horizontal` Cria e aumenta cópias da sua aplicação
+- `Balanceador de Carga` Distribui as cargas entre os servidores/cópias
 
 
 ---
@@ -364,6 +375,7 @@ print("Arquivo excluído com sucesso!")
 ## Atividades Pendentes
 - [ ] [Lab: Creating a Static Website for the Cafe](https://awsacademy.instructure.com/courses/129676/assignments/1485129?module_item_id=12389220)
 - [ ] Guided lab: Creating a VPC Peering Connection
+- [ ] Guided lab: Creating a Highly Available Environment
 
 ---
 
