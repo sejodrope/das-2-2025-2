@@ -385,8 +385,18 @@ print("Arquivo excluído com sucesso!")
 ## Aula 29/10/25 - Elastichcache (Redis/Memcached)
 
 - Uso de Caching Content
-- Module 12 Knowledge Check
+- ETC... ;)
 
+---
+
+## Aula 05/11/2025 - 
+
+- Module 13: Building Decoupled Architectures
+- Load Balance para balancear as cargas das requisições, apenas do que for necessário
+- SQS - Architecture baseado em Eventos (microserviços)
+- SNS - Publisher/Subscribers
+- SQS - Fila 1:1 (Guarda mensagem)
+- SNS - Tópico 1:N (Não guarda mensagem)
 
 ---
 
