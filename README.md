@@ -402,8 +402,7 @@ print("Arquivo excluído com sucesso!")
 
 ## Atividades Pendentes
 - [ ] [Lab: Creating a Static Website for the Cafe](https://awsacademy.instructure.com/courses/129676/assignments/1485129?module_item_id=12389220)
-- [ ] Guided lab: Creating a VPC Peering Connection
-- [ ] Guided lab: Creating a Highly Available Environment
+- [ ] [Tarefa do dia 05.11](https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450)
 
 ---
 
