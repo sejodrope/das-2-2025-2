@@ -400,6 +400,17 @@ print("Arquivo excluído com sucesso!")
 
 ---
 
+## Aula 12/11/2025 - Containers
+
+- Module 14: Building Serverless Architectures and Microservices 
+- Guided lab: Implementing a Serverless Architecture on AWS
+- ECS (simple) and EKS (super power)
+- Step Functions - Orquestrador
+- API Gateway - Conectores via REST, HTTP, WebSocket APIs
+- Backend Gateway - ele expoêm somente o necessário 
+
+--
+
 ## Atividades Pendentes
 - [ ] [Lab: Creating a Static Website for the Cafe](https://awsacademy.instructure.com/courses/129676/assignments/1485129?module_item_id=12389220)
 - [ ] [Tarefa do dia 05.11](https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450)
