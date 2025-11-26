@@ -378,7 +378,6 @@ print("Arquivo excluído com sucesso!")
 - Configuração de DNS por peso, latência, localização, entre outros...
 - public/PRIVATE hosted zones (Record sets: A, AAAA, CNAME...
 - ClondFoundation - ferramenta de gerenciamento de infraestrutura em nuvem (Template json/yaml)
-- [ ] Guided lab: Automating Infrastructure with AWS CloudFormation
 
 ---
 
@@ -409,16 +408,3 @@ print("Arquivo excluído com sucesso!")
 - API Gateway - Conectores via REST, HTTP, WebSocket APIs
 - Backend Gateway - ele expoêm somente o necessário 
 
---
-
-## Atividades Pendentes
-- [ ] [Lab: Creating a Static Website for the Cafe](https://awsacademy.instructure.com/courses/129676/assignments/1485129?module_item_id=12389220)
-- [ ] [Tarefa do dia 05.11](https://awsacademy.instructure.com/courses/129676/assignments/1485150?module_item_id=12389450)
-
----
-
-**Observações Importantes:**
-- Sempre fazer logout da console AWS após uso
-- Executar "End Lab" no Canvas para limpar ambiente
-- Fazer commit do código antes de encerrar sessão
-- Brasil tem custos mais altos devido à carga tributária
